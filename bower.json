@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow",
+  "version": "1.2.0",
+  "description": "Simple library for code syntax highlighting",
+  "main": "js/rainbow.min.js"
+}
